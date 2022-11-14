@@ -9,7 +9,7 @@
 <br />
 Hi, I'm Jefferson Gonçalves, currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.
 <br></br>
-**Languages and tools:**  
+Languages and tools:  
 <br></br>
 
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
