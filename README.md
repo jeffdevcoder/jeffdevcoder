@@ -1,5 +1,5 @@
 ### Hey There :)
-<a href="linkedin.com/in/jeffgonlima">
+<a href="https://www.linkedin.com/in/jeffgonlima">
   <img align="left" alt="Jeff's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="">
