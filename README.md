@@ -7,8 +7,7 @@
 </a>
 <br>
 <br />
-
-hi, I'm Jefferson Gonçalves, currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.
+Hi, I'm Jefferson Gonçalves, currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.
 
 **Languages and tools:**  
 
