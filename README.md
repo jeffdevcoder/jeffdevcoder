@@ -1,8 +1,8 @@
 ### Hey There :)
-<a href="https://www.linkedin.com/in/jeffgonlima">
+<a href="">
   <img align="left" alt="Jeff's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/jeffgonlima/">
   <img align="left" alt="Jeff's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
