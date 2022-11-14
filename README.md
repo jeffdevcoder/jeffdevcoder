@@ -6,14 +6,12 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
-hi, I'm [Jefferson Gonçalves](https://abhishknads.me/), currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.
+hi, I'm Jefferson Gonçalves, currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 
 **languages and tools:**  
 
