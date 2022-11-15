@@ -1,20 +1,26 @@
-### Hey There :)
+### <b><i>Hey There</i></b> :)
 <a href="">
-  <img align="left" alt="Jeff's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Jeff's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jeffgonlima/">
-  <img align="left" alt="Jeff's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jeff's LinkedIN" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
 </a>
-<br>
-<br />
+<br></br>
 Hi, I'm Jefferson Gonçalves, currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.
+<br></br>
+Olá, sou Jefferson Gonçalves, atualmente sou desenvolvedor de software front-end. Sou um entusiasta e curioso por tecnologia, que anseia por se tornar um desenvolvedor web fullstack.
 <br></br>
 Languages and tools:  
 <br></br>
-
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<div>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+  
+  
+ </div>
+<br></br>
 
 
 📈 My github stats
