@@ -10,7 +10,7 @@ Hi, I'm Jefferson Gonçalves, currently I'm a front-end software developer. I'm 
 <br></br>
 Olá, sou Jefferson Gonçalves, atualmente sou desenvolvedor de software front-end. Sou um entusiasta e curioso por tecnologia, que anseia por se tornar um desenvolvedor web fullstack.
 <br></br>
-Languages and tools:  
+<i>Languages and tools:</i>  
 <br></br>
 <div>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg"></code>
@@ -23,7 +23,7 @@ Languages and tools:
 <br></br>
 
 
-📈 My github stats
+<i>📈 My github stats</i>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffgon&show_icons=true&theme=gotham" alt="jeffgon" />
   
