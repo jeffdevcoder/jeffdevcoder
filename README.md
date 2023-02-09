@@ -6,7 +6,7 @@
   <img align="left" alt="Jeff's LinkedIN" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
 </a>
 <br></br>
-Hi, I'm Jefferson Gonçalves, currently I'm a front-end software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.
+Hi, I'm Jefferson Gonçalves, I'm 19 years old, currently I'm a full-stack software developer. I'm an enthusiast and curious about technology, who's looking forward to become a web fullstack developer.
 <br></br>
 Olá, sou Jefferson Gonçalves, atualmente sou desenvolvedor de software front-end. Sou um entusiasta e curioso por tecnologia, que anseia por se tornar um desenvolvedor web fullstack.
 <br></br>
