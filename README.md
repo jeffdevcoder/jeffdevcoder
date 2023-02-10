@@ -5,7 +5,7 @@
 <br></br>
 Hi, my name is Jefferson Gonçalves, I'm 19 years old and I'm a full-stack software developer.
 <br></br>
-Olá, sou Jefferson Gonçalves, atualmente sou desenvolvedor de software front-end. Sou um entusiasta e curioso por tecnologia, que anseia por se tornar um desenvolvedor web fullstack.
+Olá, meu nome é Jefferson Gonçalves, tenho 19 anos e sou um desenvolvedor de software full-stack.
 <br></br>
 <i>Languages and tools:</i>  
 <br></br>
