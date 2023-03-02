@@ -5,8 +5,6 @@
 <br></br>
 Hi! my name is Jefferson Gonçalves, I'm 19 years old and I'm a full-stack software developer.
 <br></br>
-Olá! meu nome é Jefferson Gonçalves, tenho 19 anos e sou um desenvolvedor de software full-stack.
-<br></br>
 <i>Languages and tools:</i>  
 <br></br>
 <div>
@@ -21,8 +19,12 @@ Olá! meu nome é Jefferson Gonçalves, tenho 19 anos e sou um desenvolvedor de 
 <br></br>
 
 
-<i>📈 My github stats</i>
+<i>📈 My github stats:</i>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffgon&show_icons=true&theme=gotham" alt="jeffgon" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffgon&show_icons=true&theme=gotham" alt="jeffgon" />
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="275" height="195" />
+
+<i>📈 My most used languages:</i>
+
+<a href="https://github.com/jeffgon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffgon&layout=compact&theme=buefy&hide_border=true" /></a>
