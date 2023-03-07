@@ -1,4 +1,5 @@
 ### <b><i>Hey There</i></b> :)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="305" height="225" />
 <a href="https://www.linkedin.com/in/jeffgonlima/">
   <img align="left" alt="Jeff's LinkedIN" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
 </a>
@@ -20,11 +21,14 @@ Hi! my name is Jefferson Gonçalves, I'm 19 years old and I'm a full-stack softw
 
 
 <i>📈 My github stats:</i>
-
+<div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffgon&show_icons=true&theme=gotham" alt="jeffgon" />
-  
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="275" height="195" />
+<br></br>
+<a href="https://github.com/jeffgon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffgon&layout=compact&theme=gotham&hide_border=true"/></a>
+</div>
 
-<i>📈 My most used languages:</i>
 
-<a href="https://github.com/jeffgon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffgon&layout=compact&theme=buefy&hide_border=true" /></a>
+
+
+
+
