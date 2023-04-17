@@ -4,7 +4,7 @@
   <img align="left" alt="Jeff's LinkedIN" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
 </a>
 <br></br>
-My name is Jefferson Gonçalves, I'm 19 years old and I'm a full-stack software developer. :)
+My name is Jefferson Gonçalves, I'm 19 years old and I'm on my way to become a full stack developer. :)
 <br></br>
 <i>📈  Languages and tools:</i>  
 <br></br>
