@@ -1,7 +1,7 @@
 ### <b><i>Hey There</i></b> :)
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif" width="305" height="225" />
 <a href="https://www.linkedin.com/in/jeffgonlima/">
-  <img align="left" alt="Jeff's LinkedIN" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
+  <img align="left" alt="Jeff's LinkedIN" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
 </a>
 <br></br>
 My name is Jefferson Gonçalves, I'm 19 years old and I'm on my way to become a full stack developer. :)
