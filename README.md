@@ -23,8 +23,8 @@ My name is Jefferson Gonçalves, I'm 19 years old and I'm on my way to become a 
  </div>
 <br></br>
 
-<div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffgon&show_icons=true&theme=gotham" alt="jeffgon" />
+<div align="center">
+<a href="https://github.com/jeffgon/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffgon&layout=compact&theme=gotham&hide_border=true"/></a>
 <br></br>
-<a href="https://github.com/jeffgon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffgon&layout=compact&theme=gotham&hide_border=true"/></a>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffgon&show_icons=true&theme=gotham" alt="jeffgon" /
 </div>
