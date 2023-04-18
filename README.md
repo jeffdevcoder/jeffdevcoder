@@ -1,13 +1,17 @@
-### <b><i>Hey There</i></b> :)
-<img align="right" margin-left="50" alt="GIF" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif" width="335" height="255" />
-<a href="https://www.linkedin.com/in/jeffgonlima/">
-  <img align="left" alt="Jeff's LinkedIN" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
+
+
+### <div align="center"><b><i>Hey There</i></b> :)</div>
+
+<div align="center">
+<img margin-left="50" alt="GIF" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif" width="335" height="255" />
+</div>
+
+<br></br>
+My name is Jefferson Gonçalves, I'm 19 years old and I'm on my way to becoming a full stack developer. My LinkedIn: 
+<a href="https://www.linkedin.com/in/jeffgonlima/"><img align="center" alt="Jeff's LinkedIN" height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
 </a>
 <br></br>
-My name is Jefferson Gonçalves, I'm 19 years old and I'm on my way to becoming a full stack developer. :)
-<br></br>
 <i>📈  Languages and tools:</i>  
-<br></br>
 <div>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"></code>
