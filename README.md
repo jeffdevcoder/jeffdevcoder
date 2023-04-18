@@ -1,5 +1,5 @@
 ### <b><i>Hey There</i></b> :)
-<img align="right" margin-left="50" alt="GIF" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif" width="325" height="245" />
+<img align="right" margin-left="50" alt="GIF" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif" width="335" height="255" />
 <a href="https://www.linkedin.com/in/jeffgonlima/">
   <img align="left" alt="Jeff's LinkedIN" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
 </a>
