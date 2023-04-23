@@ -69,7 +69,9 @@
 <br></br>
 
 <div align="center">
-<a href="https://github.com/jeffgon/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffgon&layout=compact&theme=gotham&hide_border=true"/></a>
+<a href="https://github.com/jeffgon/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffgon&layout=compact&theme=gotham&hide_border=true" />
+</a>
 
 <br></br>
 
