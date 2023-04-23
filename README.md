@@ -1,4 +1,4 @@
-### <div align="center"><b><i>Hey There</i></b> :)</div>
+### <div align="center"><b><h1>Hey There :)</h1></b></div>
 
 <div align="center">
   <img margin-left="50" alt="GIF" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif" width="335" height="255" />
@@ -6,10 +6,10 @@
 
 <br></br>
 
-My name is Jefferson Gonçalves, I'm 19 years old and I'm on my way to becoming a full stack developer. My LinkedIn: 
+My name is Jefferson Gonçalves, I'm 19 years old and I'm on my way to becoming a full stack developer. My <strong>Linkedin</strong>: 
 <a href="https://www.linkedin.com/in/jeffgonlima/">
-  <img align="center" alt="Jeff's LinkedIN" height="25" 
-  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
+    <img align="center" alt="Jeff's LinkedIN" height="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <br></br>
