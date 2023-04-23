@@ -12,7 +12,7 @@ My name is Jefferson Gonçalves, I'm 19 years old and I'm on my way to becoming 
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<br></br>
+<hr></hr>
 
 <div>
 <p>🔨 Tools:</p>
