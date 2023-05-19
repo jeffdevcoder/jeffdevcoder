@@ -1,7 +1,7 @@
 ### <div align="center"><b><h1>Hey There :)</h1></b></div>
 
 <div align="center">
-  <img margin-left="50" alt="GIF" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif" width="335" height="255" />
+  <img margin-left="50" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="335" height="255" />
 </div>
 
 <div align="center">
