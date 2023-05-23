@@ -23,26 +23,11 @@
 <br></br>
 
 <div>
-<p>💻 Front-End Static Interface:</p>
+<p>💻 Front-End</p>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"></code>
-</div>
-
-<br></br>
-
-<div>
-<p>💻 Front-End Dynamic Interfaces:</p>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"></code>
-<code><img height="60" src="https://driveneducation.zendesk.com/hc/article_attachments/4408929811213/AJAX_logo_by_gengns.svg.png"></code>
-</div>
-
-<br></br>
-
-<div>
-<p>💻 Front-End Single Page Applications:</p>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-<code><img height="60" src="https://driveneducation.zendesk.com/hc/article_attachments/4408924096653/es6-logo.png"></code>
-<code><img height="60" src="https://driveneducation.zendesk.com/hc/article_attachments/4413155431821/logo-on-dark-bg__1_.png"></code>
 </div>
 
 <br></br>
@@ -50,9 +35,8 @@
 <div>
 <p>💻 Back-Ends and APIS:</p>
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="35" src="https://driveneducation.zendesk.com/hc/article_attachments/4408960928653/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f657870726573732e737667.svg"></code>
- <code><img height="40" src="https://driveneducation.zendesk.com/hc/article_attachments/4408960959501/img.png"></code>
-   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="35" src="https://driveneducation.zendesk.com/hc/article_attachments/4408960928653/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f657870726573732e737667.svg"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 </div>
 
 <br></br>
