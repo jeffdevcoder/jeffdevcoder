@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  Hi, I'm Jeff! I'm 20 years old and I'm Full stack web developer with knowledge in HTML, CSS, Javascript, React, Node.js, Express, Postgresql, and MongoDB. Proficient in front-end, back-end, and database skills, delivering comprehensive and efficient solutions for projects. My <strong>Linkedin</strong>: 
+  Hi, I'm Jeff! I'm 20 years old and I'm Full stack web developer with knowledge in HTML, CSS, Javascript, Typescript, React, Node.js, Express, Postgresql, and MongoDB. Proficient in front-end, back-end, and database skills, delivering comprehensive and efficient solutions for projects. My <strong>Linkedin</strong>: 
   <a href="https://www.linkedin.com/in/jeffgonlima/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
@@ -15,7 +15,7 @@
 <hr></hr>
 
 <div>
-<p>🔨 Tools:</p>
+<p>🔨 Tools: Linux and VSCode</p>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"></code>
 </div>
@@ -23,7 +23,7 @@
 <br></br>
 
 <div>
-<p>💻 Front-End</p>
+<p>💻 Front-End: HTML, Css, Javascript, React</p>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"></code>
@@ -33,7 +33,7 @@
 <br></br>
 
 <div>
-<p>💻 Back-Ends and APIS:</p>
+<p>💻 Back-Ends and APIS: Nodejs, Express e Typescript</p>
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
@@ -42,7 +42,7 @@
 <br></br>
 
 <div>
-<p>💻 Databases and Modeling:</p>
+<p>💻 Databases and Modeling: MongoDB, Postgresql e Prisma</p>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"></code>
   <code><img height="60" src="https://camo.githubusercontent.com/87724523063a50fdb4afb3e99a06d7c23d5853c41226e8f48b3ef5035db0e894/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67"></code>
