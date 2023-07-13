@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  Hi, I'm Jeff! I'm 20 years old and I'm Full stack web developer with knowledge in HTML, CSS, Javascript, Typescript, React, Node.js, Express, Postgresql, and MongoDB. Proficient in front-end, back-end, and database skills, delivering comprehensive and efficient solutions for projects. My <strong>Linkedin</strong>: 
+  Hi, I'm Jeff! I'm 20 years old and I'm Full stack web developer with knowledge in HTML, CSS, Javascript, Typescript, React, Node.js, Express, Postgresql, MongoDB, Docker and integrations tests. Proficient in front-end, back-end, and database skills, delivering comprehensive and efficient solutions for projects. My <strong>Linkedin</strong>: 
   <a href="https://www.linkedin.com/in/jeffgonlima/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
