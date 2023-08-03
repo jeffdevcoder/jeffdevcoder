@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  Hi, I'm Jeff! I'm 20 years old and I'm Full stack web developer with knowledge in HTML, CSS, Javascript, Typescript, React, Node.js, Express, Postgresql, MongoDB, Docker and integrations tests. Proficient in front-end, back-end, and database skills, delivering comprehensive and efficient solutions for projects. My <strong>Linkedin</strong>: 
+Olá, eu sou o Jeff! Tenho 20 anos e sou desenvolvedor web Full Stack com conhecimentos em HTML, CSS, Javascript, Typescript, React, Node.js, Express, Postgresql, MongoDB, Docker e testes de integração. Tenho habilidades no Front-End, Back-End e Banco de Dados, fornecendo soluções abrangentes e eficientes para projetos. Meu <strong>Linkedin</strong>: 
   <a href="https://www.linkedin.com/in/jeffgonlima/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
@@ -15,10 +15,11 @@
 <hr></hr>
 
 <div>
-<p>🔨 Tools: Linux, VSCode, Docker</p>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" /></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" /></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" /></code>  
+<p>🔨 Ferramentas: Linux, VSCode, Docker, Git</p>
+<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg' /></code>
+<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg' /></code>
+<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg' /></code>
+<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg' /></code>
 </div>
 
 <br></br>
@@ -34,16 +35,17 @@
 <br></br>
 
 <div>
-<p>💻 Back-Ends and APIS: Nodejs, Express, Typescript</p>
-<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" /></code>
-<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></code>
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
+<p>💻 Back-End e API's: Nodejs, Express, Typescript, Testes de Integração (Jest)</p>
+<code><img height='80' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg' /></code>
+<code><img height='15' src='https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png' /></code>
+<code><img height='60' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' /></code>
+<code><img height='60' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg' /></code>
 </div>
 
 <br></br>
 
 <div>
-<p>💻 Databases and Modeling: MongoDB, Postgresql, Prisma</p>
+<p>💻 Banco de Dados e Modelagem: Relacionais (Postgresql) e Não Relacionais (MongoDB), Prisma</p>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
   <code><img height="60" src="https://camo.githubusercontent.com/87724523063a50fdb4afb3e99a06d7c23d5853c41226e8f48b3ef5035db0e894/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67" /></code>
