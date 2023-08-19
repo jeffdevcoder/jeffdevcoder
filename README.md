@@ -1,11 +1,11 @@
-### <div align="center"><b><h1>Hey There :)</h1></b></div>
+### <div align="center"><b><h1>Bem vindo ao meu perfil! 🧑‍💻</h1></b></div>
 
 <div align="center">
   <img margin-left="50" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="335" height="255" />
 </div>
 
 <div align="center">
-Olá, eu sou o Jeff! Tenho 20 anos e sou desenvolvedor web Full Stack com conhecimentos em HTML, CSS, Javascript, Typescript, React, Node.js, Express, Postgresql, MongoDB, Docker e testes de integração. Tenho habilidades no Front-End, Back-End e Banco de Dados, fornecendo soluções abrangentes e eficientes para projetos. Meu <strong>Linkedin</strong>: 
+Olá, eu sou o Jeff! Tenho 20 anos e sou Desenvolvedor Full Stack. Acabei me interessando por programação na adolescência e hoje sou apaixonado por tecnologia. Tenho habilidades no Front-End, Back-End e Banco de Dados, fornecendo soluções abrangentes e eficientes para projetos.  Meu <strong>Linkedin</strong>: 
   <a href="https://www.linkedin.com/in/jeffgonlima/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
