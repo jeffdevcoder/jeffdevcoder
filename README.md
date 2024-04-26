@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-Olá, eu sou o Jeff! Tenho 20 anos e sou Desenvolvedor Full Stack. Acabei me interessando por programação na adolescência e hoje sou apaixonado por tecnologia. Tenho habilidades no Front-End, Back-End e Banco de Dados, fornecendo soluções abrangentes e eficientes para projetos.  Meu <strong>Linkedin</strong>: 
-  <a href="https://www.linkedin.com/in/jeffgonlima/">
+Olá, eu sou o Jeff! Tenho 20 anos e sou Desenvolvedor Full Stack. Estudante de Sistema De Informação. Tenho habilidades no Front-End, Back-End e Banco de Dados, fornecendo soluções eficientes para projetos.  Meu <strong>Linkedin</strong>: 
+  <a href="https://www.https://www.linkedin.com/in/jeffgonl/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
   </a>
@@ -15,10 +15,9 @@ Olá, eu sou o Jeff! Tenho 20 anos e sou Desenvolvedor Full Stack. Acabei me int
 <hr></hr>
 
 <div>
-<p>🔨 Ferramentas: Linux, VSCode, Docker, Git</p>
+<p>🔨 Ferramentas: Linux, VSCode, Git</p>
 <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg' /></code>
 <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg' /></code>
-<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg' /></code>
 <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg' /></code>
 </div>
 
@@ -35,11 +34,9 @@ Olá, eu sou o Jeff! Tenho 20 anos e sou Desenvolvedor Full Stack. Acabei me int
 <br></br>
 
 <div>
-<p>💻 Back-End e API's: Nodejs, Express, Typescript, Testes de Integração (Jest)</p>
+<p>💻 Back-End e API's: Nodejs, Typescript</p>
 <code><img height='80' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg' /></code>
-<code><img height='15' src='https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png' /></code>
 <code><img height='60' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' /></code>
-<code><img height='60' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg' /></code>
 </div>
 
 <br></br>
