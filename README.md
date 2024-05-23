@@ -51,10 +51,10 @@ Olá, eu sou o Jeff! Tenho 21 anos e sou Desenvolvedor Full Stack. Estudante de 
 
 <div align="center">
 <a href="https://github.com/jeffgon/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffgon&layout=compact&theme=gotham&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdevcoder&layout=compact&theme=gotham&hide_border=true" />
 </a>
 
 <br></br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffgon&show_icons=true&theme=gotham" alt="jeffgon" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeffdevcoder&show_icons=true&theme=gotham" alt="jeffgon" />
 </div>
