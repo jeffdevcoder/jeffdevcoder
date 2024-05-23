@@ -6,7 +6,7 @@
 
 <div align="center">
 Olá, eu sou o Jeff! Tenho 21 anos e sou Desenvolvedor Full Stack. Estudante de Sistema De Informação. Tenho habilidades no Front-End, Back-End e Banco de Dados, fornecendo soluções eficientes para projetos.  Meu <strong>Linkedin</strong>: 
-  <a href="https://www.https://www.linkedin.com/in/jeffgonl/">
+  <a href="https://www.linkedin.com/in/jeffgonl/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
   </a>
