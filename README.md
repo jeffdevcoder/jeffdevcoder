@@ -45,7 +45,6 @@ Olá, eu sou o Jeff! Tenho 21 anos e sou Desenvolvedor Full Stack. Estudante de 
 <p>💻 Banco de Dados e Modelagem: Relacionais (Postgresql) e Não Relacionais (MongoDB), Prisma</p>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
-  <code><img height="60" src="https://camo.githubusercontent.com/87724523063a50fdb4afb3e99a06d7c23d5853c41226e8f48b3ef5035db0e894/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67" /></code>
 </div>
 
 <br></br>
