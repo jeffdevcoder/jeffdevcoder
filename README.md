@@ -1,12 +1,10 @@
 ### <div align="center"><b><h1>Bem vindo ao meu perfil! 🧑‍💻</h1></b></div>
 
 <div align="center">
-  <img margin-left="50" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="335" height="255" />
+  <img margin-left="50" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t6dWMyaWNjMG1sNWd6MWtxZDh1NHpnMzd4dDRneGhkMmQ2aGl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FOXMwMtDpNTn7hcl5F/giphy.webp" width="335" height="255" />
 </div>
 
-<div align="center">
-Olá, eu sou o Jeff! Tenho 21 anos e sou Desenvolvedor Full Stack. Estudante de Sistema De Informação. Tenho habilidades no Front-End, Back-End e Banco de Dados, fornecendo soluções eficientes para projetos.  Meu <strong>Linkedin</strong>: 
-  <a href="https://www.linkedin.com/in/jeffgonl/">
+<div align="center">Tenho 21 anos, amo programação, jogos, música e anime antigo. Meu <strong>Linkedin</strong>: <a href="https://www.linkedin.com/in/jeffgonl/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
   </a>
