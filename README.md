@@ -43,7 +43,7 @@
 <br></br>
 
 <div>
-<p>💻 Banco de Dados e Modelagem: Relacionais (MySQL, PostgreSQL) e Não Relacionais (MongoDB)</p>
+<p>💻 Banco de Dados e Modelagem: Relacionais (MySQL, PostgreSQL) e Não Relacionais (MongoDB).</p>
   <code><img height="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" /></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
