@@ -4,7 +4,7 @@
   <img margin-left="50" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t6dWMyaWNjMG1sNWd6MWtxZDh1NHpnMzd4dDRneGhkMmQ2aGl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FOXMwMtDpNTn7hcl5F/giphy.webp" width="335" height="255" />
 </div>
 
-<div align="center">Tenho 21 anos, amo programação, jogos, música e anime antigo. Meu <strong>Linkedin</strong>: <a href="https://www.linkedin.com/in/jeffgonl/">
+<div align="center">Tenho 21 anos, amo programação, jogos, música e anime antigo. Meu <strong>Linkedin</strong>: <a target="_blank" href="https://www.linkedin.com/in/jeffgonl/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
   </a>
@@ -13,16 +13,18 @@
 <hr></hr>
 
 <div>
-<p>🔨 Ferramentas: Linux, VSCode, Git</p>
-<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg' /></code>
+<p>🔨 Ferramentas: Linux Ubuntu, VSCode, Git, MySQL Workbench.</p>
+<code><img height='70' src='https://cdn.icon-icons.com/icons2/2622/PNG/512/os_linux_ubuntu_icon_157492.png' /></code>
 <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg' /></code>
 <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg' /></code>
+<code><img height='70' src='https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png' /></code>
+  
 </div>
 
 <br></br>
 
 <div>
-<p>💻 Front-End: HTML, Css, Javascript, React</p>
+<p>💻 Front-End: HTML, Css, Javascript, React.</p>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" /></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" /></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" /></code>
@@ -32,15 +34,17 @@
 <br></br>
 
 <div>
-<p>💻 Back-End e API's: Nodejs, Typescript</p>
+<p>💻 Back-End e API's: Nodejs, Typescript, PHP.</p>
 <code><img height='80' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg' /></code>
 <code><img height='60' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' /></code>
+  <code><img height='60' src='https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png' /></code>
 </div>
 
 <br></br>
 
 <div>
-<p>💻 Banco de Dados e Modelagem: Relacionais (Postgresql) e Não Relacionais (MongoDB), Prisma</p>
+<p>💻 Banco de Dados e Modelagem: Relacionais (MySQL, PostgreSQL) e Não Relacionais (MongoDB)</p>
+  <code><img height="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" /></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
 </div>
