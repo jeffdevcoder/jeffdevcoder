@@ -4,7 +4,7 @@
   <img margin-left="50" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t6dWMyaWNjMG1sNWd6MWtxZDh1NHpnMzd4dDRneGhkMmQ2aGl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FOXMwMtDpNTn7hcl5F/giphy.webp" width="335" height="255" />
 </div>
 
-<div align="center">21 anos, amo programação, jogos, música e anime antigo. Meu <strong>Linkedin</strong>: <a target="_blank" href="https://www.linkedin.com/in/jeffgonl/">
+<div align="center">21 anos, gosto de tecnologia e música. Meu <strong>Linkedin</strong>: <a target="_blank" href="https://www.linkedin.com/in/jeffgonl/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
   </a>
