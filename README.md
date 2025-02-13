@@ -14,44 +14,25 @@
 <hr></hr>
 
 <div>
-<p>🔨 Ferramentas: Linux Ubuntu, VSCode, Git, MySQL Workbench.</p>
-<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg' /></code>
-<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg' /></code>
-<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg' /></code>
-<code><img height='70' src='https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png' /></code>
-  
-</div>
-
-<br></br>
-
-<div>
-<p>💻 Front-End: HTML, Css, Javascript, React.</p>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" /></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" /></code>
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" /></code>
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></code>
-</div>
-
-<br></br>
-
-<div>
-<p>💻 Back-End e API's: Nodejs, Typescript, PHP, Laravel</p>
+<p>🔨 Tecnologias e Ferramentas:</p>
+  <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg' /></code>
+  <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg' /></code>
+  <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original-wordmark.svg' /></code>
+  <code><img height='70' src='https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png' /></code>
+  <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" /></code>
+  <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" /></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" /></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></code>
   <code><img height='80' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg' /></code>
   <code><img height='60' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' /></code>
   <code><img height='60' src='https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png' /></code>
-  <code><img height='60' src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg' /></code>
-</div>
-
-<br></br>
-
-<div>
-<p>💻 Banco de Dados e Modelagem: Relacionais (MySQL, PostgreSQL) e Não Relacionais (MongoDB).</p>
-  <code><img height="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" /></code>
+  <code><img height='60' src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-line-wordmark.svg' /></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" /></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
 </div>
 
-<br></br>
+<hr></hr>
 
 <div align="center">
 <a href="https://github.com/jeffgon/github-readme-stats">
