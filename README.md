@@ -14,7 +14,7 @@
 
 <div>
 <p>🔨 Ferramentas: Linux Ubuntu, VSCode, Git, MySQL Workbench.</p>
-<code><img height='70' src='https://cdn.icon-icons.com/icons2/2622/PNG/512/os_linux_ubuntu_icon_157492.png' /></code>
+<code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg' /></code>
 <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg' /></code>
 <code><img height='70' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg' /></code>
 <code><img height='70' src='https://static-00.iconduck.com/assets.00/mysql-workbench-icon-2048x2048-sgkn70cp.png' /></code>
@@ -34,10 +34,11 @@
 <br></br>
 
 <div>
-<p>💻 Back-End e API's: Nodejs, Typescript, PHP.</p>
-<code><img height='80' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg' /></code>
-<code><img height='60' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' /></code>
+<p>💻 Back-End e API's: Nodejs, Typescript, PHP, Laravel</p>
+  <code><img height='80' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg' /></code>
+  <code><img height='60' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' /></code>
   <code><img height='60' src='https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png' /></code>
+  <code><img height='60' src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg' /></code>
 </div>
 
 <br></br>
