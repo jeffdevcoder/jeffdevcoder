@@ -4,7 +4,7 @@
   <img margin-left="50" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t6dWMyaWNjMG1sNWd6MWtxZDh1NHpnMzd4dDRneGhkMmQ2aGl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FOXMwMtDpNTn7hcl5F/giphy.webp" width="335" height="255" />
 </div>
 
-<div align="center">Tenho 21 anos, estudante de Sistemas de Informação no 3º período. Gosto de tecnologia, anime, jogos e toco guitarra. Além disso, sou um entusiasta em Cybersecurity focado na área de Pentest.<br>
+<div align="center">Tenho experiência com desenvolvimento web com PHP e Laravel, gosto de pensar e criar soluções eficientes e bem estruturadas. Além do desenvolvimento, sou um entusiasta em Cybersecurity focado na área de Pentest e Offensive Security. Também toco guitarra, curto jogos e animes nas horas vagas.<br>
   Meu <strong>Linkedin</strong>: <a target="_blank" href="https://www.linkedin.com/in/jeffgonl/">
       <img align="center" alt="Jeff's LinkedIN" height="40" 
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
